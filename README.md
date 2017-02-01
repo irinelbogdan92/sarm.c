@@ -1,1 +1,1 @@
-# sarm.c
+Secure Authentification Remote Mechanism - protocol
